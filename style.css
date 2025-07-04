@@ -28,9 +28,9 @@ header {
     z-index: 100;
     padding: 13px 16px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    /*gap: 74px;*/
+    gap: 74px;
     border-bottom: var(--borders);
     background-color: var(--main-bg-color);
 }
