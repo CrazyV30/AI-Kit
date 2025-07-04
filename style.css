@@ -135,7 +135,7 @@ nav {
     }
 }
 .ico-list {
-    visibility: collapse;
+    display: none;
     width: 32px;
     height: 32px;
 }
@@ -749,7 +749,7 @@ footer {
     nav {
         display: none;
     }
-    .ico-list{visibility: visible;}
+    .ico-list{display: block;}
     .hero {
         padding-top: 0;
         & > h1 {
